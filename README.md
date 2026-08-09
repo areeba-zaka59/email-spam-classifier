@@ -45,5 +45,5 @@ The final Linear SVM model correctly classified 982 of 999 test emails, with onl
 
 ## Sample Output
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/CM email spam.png)
 
