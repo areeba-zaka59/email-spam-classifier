@@ -44,5 +44,5 @@ The final Linear SVM model correctly classified 982 of 999 test emails, with onl
 3. Run all cells in order — the notebook downloads the dataset automatically via `kagglehub`
 
 ## Sample Output
-![Confusion Matrix](screenshots/CM_email_spam.png)
+![Confusion Matrix](CM_email_spam.png)
 
